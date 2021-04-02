@@ -7,6 +7,7 @@ const colors: Record<string, string> = {
   inactiveField: "#F7F7F7",
   inactiveColor: "#767676",
   inactiveBG: "#e6e6e6",
+  bgColor: "#fef9f6",
   borderColor: "#DBDBDB",
   lightBorderColor: "#ededed",
   primary: "#ffe268", 
