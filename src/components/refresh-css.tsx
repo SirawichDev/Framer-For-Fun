@@ -51,6 +51,7 @@ const ResetCSS = createGlobalStyle`
   }
 
   body {
+    background-color: #e3ece9;
     font-family: 'Fira Sans',sans-serif;
     margin: 0;
     padding: 0;
@@ -58,6 +59,7 @@ const ResetCSS = createGlobalStyle`
     overflow-x: hidden;
     -webkit-tap-highlight-color: transparent;
   }
+
 
 `;
 export default ResetCSS;
